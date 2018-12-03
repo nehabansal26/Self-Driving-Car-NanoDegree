@@ -1,2 +1,3 @@
 # Self-Driving-Car-NanoDegree
-Projects from Self Driving Car Course on Udacity
+
+Projects from the nano degree course on Udacity for Self Driving Cars.
